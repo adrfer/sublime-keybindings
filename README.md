@@ -1,7 +1,7 @@
 # Sublime Text Key Bindings
 Remarkably uncharming key bindings for Sublime Text.
 
-Key bindings tested in `Sublime Text 3 (3083)`.
+Tested on `Sublime Text 3 (3083)`.
 
 ## Usage
 
