@@ -29,7 +29,7 @@ or
 1. Delete the file from **~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User**
 2. Open/restart **Sublime Text**
 
---
+##
 Hey, looking for custom settings? Check out [sublime-settings](https://github.com/adrfer/sublime-settings).
 
 Interested in themes? Take a look at [sublime-themes](https://github.com/adrfer/sublime-themes).
